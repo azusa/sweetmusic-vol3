@@ -6,6 +6,8 @@ pipelines:
           script:
             - rm -rf target
             - mkdir -p target
+            - curl -L -O http://sakura.fieldnotes.jp/images/f2.ttf
+            - curl -L -O http://sakura.fieldnotes.jp/images/b2.ttf
             - bash ./build.sh
             - bash ./deploy.sh master
   branches:
@@ -14,5 +16,7 @@ pipelines:
           script:
             - rm -rf target
             - mkdir -p target
+            - curl -L -O http://sakura.fieldnotes.jp/images/f2.ttf
+            - curl -L -O http://sakura.fieldnotes.jp/images/b2.ttf
             - bash ./build.sh
             - bash ./deploy.sh release 
