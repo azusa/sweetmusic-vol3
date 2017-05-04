@@ -1,6 +1,5 @@
 target
 techbookfest*
-*.ttf
 *.aux
 *.out
 *.pdf

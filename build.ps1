@@ -1,5 +1,5 @@
 docker build -t tf2 .
-docker run -e LOCAL=local tf2
+docker run tf2
 
 $out = docker ps -a |Select-String "tf2"
 foreach ($line in $out){

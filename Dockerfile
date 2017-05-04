@@ -1,5 +1,4 @@
-#FROM hiroyukionaka/pandoc-lualatex-ja
-FROM texlive
+FROM hiroyukionaka/pandoc-lualatex-ja
 MAINTAINER Hiroyuki Onaka
 
 RUN mkdir -p /tmp/code
