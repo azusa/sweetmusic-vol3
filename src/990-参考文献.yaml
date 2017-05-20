@@ -1,1 +1,28 @@
+\lhead[]{}
+\rhead[]{}
+\chead[参考文献]{参考文献}
+
+# 参考文献
+
+---
+fontsize: 16pt
+link-citations: true
+
+references:
+- id: Kniberg2011
+  title: 'リーン開発の現場　カンバンによる大規模プロジェクトの運営'
+  author:
+  - family: Kniberg
+    given: Henrik
+  translator:
+  - family: 角谷
+    given: 信太郎
+  - family: 市谷
+    given: 聡啓
+  - family: 藤原
+    given: 大
+  publisher: オーム社
+  issued:
+    year: 2011
+---
 
