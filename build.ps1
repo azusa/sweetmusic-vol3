@@ -1,4 +1,4 @@
-docker build -t tf2 .
+docker build -t tf2 . --no-cache
 docker run tf2
 
 $out = docker ps -a |Select-String "tf2"
