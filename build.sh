@@ -19,5 +19,6 @@ cat src/*.yaml >> target/tmp.md
 cat -n target/tmp.md
 
 
-pandoc --template latex.template -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+citations+yaml_metadata_block --filter pandoc-crossref -M "crossrefYaml=crossref_config.yaml" --filter pandoc-citeproc -o target/sweetmusic-vol3.pdf --latex-engine=lualatex -H h-luatexja.tex -A src/imprint.tex -B b-fancy.tex  -B ha-luatexja.tex --toc --toc-depth=1 target/tmp.md --verbose
+pandoc -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+citations+yaml_metadata_block --filter pandoc-crossref -M "crossrefYaml=${PWD}/crossref_config.yaml" --filter pandoc-citeproc -o target/sweetmusic-vol3.pdf --latex-engine=lualatex -H h-luatexja.tex -A src/imprint.tex  --toc --toc-depth=1 target/tmp.md --verbose
+#pandoc -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+citations+yaml_metadata_block --filter pandoc-crossref   -o target/sweetmusic-vol3.pdf --latex-engine=lualatex  --toc --toc-depth=1 src/800* --verbose
 

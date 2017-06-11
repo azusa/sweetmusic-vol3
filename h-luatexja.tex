@@ -1,3 +1,20 @@
+\usepackage{subfig}
+\AtBeginDocument{%
+\renewcommand*\figurename{Figure}
+\renewcommand*\tablename{Table}
+}
+\AtBeginDocument{%
+\renewcommand*\listfigurename{List of Figures}
+\renewcommand*\listtablename{List of Tables}
+}
+\usepackage{float}
+\floatstyle{ruled}
+\makeatletter
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\makeatother
+\floatname{codelisting}{コード}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+
 \usepackage{luatexja}
 \usepackage{luatexja-fontspec}
 \usepackage{fancyhdr}
@@ -11,5 +28,4 @@
 \setmainjfont[BoldFont=b2.ttf]{f2.ttf}
 \setsansjfont{f2.ttf}
 \setmonofont{RictyDiminished-Regular.ttf}
-
 

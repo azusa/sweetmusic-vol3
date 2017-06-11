@@ -24,5 +24,13 @@ references:
   publisher: オーム社
   issued:
     year: 2011
+- id: Ishii2002
+  title: 'JUnit 実践講座 -シナリオベースのテストケースの書き方'
+  author:
+  - family: 石井
+    given: 勝
+  issued:
+    year: 2002
+  URL: http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/junit/scenario-based-testcase.html
 ---
 
