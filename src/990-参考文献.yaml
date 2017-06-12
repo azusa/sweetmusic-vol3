@@ -21,9 +21,22 @@ references:
     given: 聡啓
   - family: 藤原
     given: 大
-  publisher: オーム社
+  publisher: 'オーム社'
   issued:
     year: 2011
+- id: Thomas2000
+  title: '新装版 達人プログラマー 職人から名匠への道'
+  author:
+  - family: Andrew
+    given: Hunt
+  - family: David
+    given: Thomas
+  translator:
+  - family: 村上
+    given: 雅章
+  publisher: 'オーム社'
+  issued:
+    year: 2016
 - id: Ishii2002
   title: 'JUnit 実践講座 -シナリオベースのテストケースの書き方'
   author:
@@ -31,6 +44,6 @@ references:
     given: 勝
   issued:
     year: 2002
-  URL: http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/junit/scenario-based-testcase.html
+  URL: 'http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/junit/scenario-based-testcase.html'
 ---
 
