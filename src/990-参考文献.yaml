@@ -9,6 +9,18 @@ fontsize: 16pt
 link-citations: true
 
 references:
+- id: Beck2002
+  title: 'Test-driven development ： by example(「テスト駆動開発入門」　ピアソンエデュケーション)'
+  author:
+  - family: Beck
+    given: Kent
+  translator:
+  - family: 長瀬
+    given: 嘉秀
+  publisher: Addison-Wesley
+  issued:
+    year: 2002
+  type: legal-case
 - id: Kniberg2011
   title: 'リーン開発の現場　カンバンによる大規模プロジェクトの運営'
   author:
@@ -27,10 +39,10 @@ references:
 - id: Thomas2000
   title: '新装版 達人プログラマー 職人から名匠への道'
   author:
-  - family: Andrew
-    given: Hunt
-  - family: David
-    given: Thomas
+  - given: Andrew
+    family: Hunt
+  - given: David
+    family: Thomas
   translator:
   - family: 村上
     given: 雅章
@@ -45,5 +57,13 @@ references:
   issued:
     year: 2002
   URL: 'http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/junit/scenario-based-testcase.html'
+- id: Coplien2014
+  title: 'Why Most Unit Testing is Waste'
+  author:
+  - given: James O
+    family:  Coplien
+  issued:
+    year: 2014
+  URL: 'http://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf' 
 ---
 
