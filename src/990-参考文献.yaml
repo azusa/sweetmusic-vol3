@@ -25,7 +25,7 @@ references:
   translator:
   - family: 長瀬
     given: 嘉秀
-  publisher: Addison-Wesley
+  publisher: Pearson Education,
   issued:
     year: 2002
   type: legal-case
@@ -85,5 +85,28 @@ references:
   issued:
     year: 2014
   URL: 'http://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf' 
+- id: Meszaros2007
+  title: 'xUnit Test Patterns'
+  author:
+  - given: Gerard
+    family: Meszaros
+  publisher: Pearson Education
+  issued:
+    year: 2007
+- id: Freeman2010
+  title: 'Growing Object-Oriented Software, Guided by Tests(実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる)'
+  author:
+  - given: Steve
+    family: Freeman
+  - given: Nat
+    family: Pryce
+  translator:
+  - family: 和智
+    given: 右桂 
+  - family: 髙木
+    given: 正広
+  publisher: Pearson Education 
+  issued:
+    year: 2010
 ---
 
