@@ -108,5 +108,20 @@ references:
   publisher: Pearson Education 
   issued:
     year: 2010
+- id: Oram2011
+  title: 'Making Software エビデンスが変えるソフトウェア開発'
+  author:
+  - family: Oram
+    given: Andy
+  - family: Wilson
+    given: Greg
+  translator:
+  - family: 久野
+    given: 禎子
+  - family: 久野
+    given: 靖
+  publisher: 'オライリー・ジャパン'
+  issued:
+    year: 2011
 ---
 
