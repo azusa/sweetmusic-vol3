@@ -123,5 +123,21 @@ references:
   publisher: 'オライリー・ジャパン'
   issued:
     year: 2011
+- id: Smart2015
+  title: 'BDD in Action Behavior-Driven Development for
+the whole software lifecycle'
+  author:
+  - family: John Ferguson
+    given: Smart
+  publisher: 'Manning'
+  issued:
+    year: 2015
+- id: Goyoki2012
+  title: 'xUnit Test PatternsのTest Doubleパターン(Mock、Stub、Fake、Dummy等の定義)'
+  author:
+  - family: goyoki
+  issued:
+    year: 2012  
+  URL: http://goyoki.hatenablog.com/entry/20120301/1330608789
 ---
 
