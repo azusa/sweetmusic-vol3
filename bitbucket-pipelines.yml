@@ -1,4 +1,4 @@
-image: hiroyukionaka/pandoc-lualatex-ja
+image: hiroyukionaka/pandoc-redpen-ja
 
 pipelines:
   default:

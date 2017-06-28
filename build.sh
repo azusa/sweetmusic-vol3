@@ -23,4 +23,8 @@ pandoc -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+
 cat src/epub.yaml >> target/tmp.md
 pandoc -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+citations+yaml_metadata_block --filter pandoc-crossref -M "crossrefYaml=${PWD}/crossref_config.yaml" --filter pandoc-citeproc -t epub3 -o target/sweetmusic-vol3.epub --latex-engine=lualatex -H h-luatexja.tex  --toc --toc-depth=1 target/tmp.md --verbose
 
+RET=$?
+set +e
 /opt/redpen-distribution-1.9.0/bin/redpen -f markdown src/*.md > target/${OUTPUT}.txt
+
+exit $RET

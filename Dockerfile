@@ -1,4 +1,4 @@
-FROM hiroyukionaka/pandoc-lualatex-ja
+FROM hiroyukionaka/pandoc-redpen-ja
 MAINTAINER Hiroyuki Onaka
 
 RUN apt-get -y update
