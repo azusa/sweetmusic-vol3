@@ -9,6 +9,27 @@ fontsize: 16pt
 link-citations: true
 
 references:
+- id: Adzic2011
+  title: "Specification by Example"
+  author:
+  - family: Adzic
+    given: Gojko
+  publisher: Manning
+  issued:
+    year: 2011
+- id: Adzic2012
+  title: 'Impact Mapping: Making a big impact with software products and projects（「IMPACT MAPPING　インパクトのあるソフトウェアを作る」 翔泳社）'
+  author:
+  - family: Adzic
+    given: Gojko
+  publisher:  Provoking Thoughts
+  translator:
+  - family: 平鍋
+    given: 健児
+  - family: 上馬
+    given: 里美
+  issued:
+    year: 2012
 - id: Hansson2014
   title: 'TDD is dead. Long live testing.'
   URL: http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
@@ -26,18 +47,6 @@ references:
   - family: 長瀬
     given: 嘉秀
   publisher: Pearson Education,
-  issued:
-    year: 2002
-  type: legal-case
-- id: Beck2002
-  title: 'Test-driven development ： by example(「テスト駆動開発入門」　ピアソンエデュケーション)'
-  author:
-  - family: Beck
-    given: Kent
-  translator:
-  - family: 長瀬
-    given: 嘉秀
-  publisher: Addison-Wesley
   issued:
     year: 2002
   type: legal-case
