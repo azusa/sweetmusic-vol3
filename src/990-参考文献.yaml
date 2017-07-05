@@ -148,5 +148,17 @@ the whole software lifecycle'
   issued:
     year: 2012  
   URL: http://goyoki.hatenablog.com/entry/20120301/1330608789
+- id: Kakutani2007
+  title: 'スはスペックのス 【第 1 回】 RSpec の概要と、RSpec on Rails (モデル編)'
+  author:
+  - family: かくたに
+  - family: もろはし
+  issued:
+    year: 2007
+  type: article-journal
+  language: ja
+  volumn: 0021 号
+  container-title: Rubyist Magazine
+  URL: http://magazine.rubyist.net/?0021-Rspec
 ---
 

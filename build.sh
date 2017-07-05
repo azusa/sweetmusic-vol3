@@ -25,6 +25,6 @@ pandoc -V fontsize:14pt -V papersize:b5 -s -f markdown+raw_tex+tex_math_dollars+
 
 RET=$?
 set +e
-/opt/redpen-distribution-1.9.0/bin/redpen -f markdown src/*.md > target/${OUTPUT}.txt
+/opt/redpen-distribution-1.9.0/bin/redpen -c redpen-config.xml -f markdown src/*.md |tee target/${OUTPUT}.txt
 
 exit $RET
