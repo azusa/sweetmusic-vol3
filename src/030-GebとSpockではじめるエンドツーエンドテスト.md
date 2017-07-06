@@ -4,7 +4,8 @@
 
 # GebとSpockではじめるエンドツーエンドテスト
 
-本稿では、Groovyを使用したSelenium WebDriver拡張のブラウザ自動化ツールであるGebと、同じくGroovyを用いるSpockを使用した、エンドツーエンドのテストについて述べます。
+本稿では、Groovyを使用したSelenium WebDriver拡張のブラウザー自動化ツールであるGebと、同じくGroovyを用いるSpockを使用した、エンドツーエンドのテストについて述べます。
+
 
 ## アジャイルテストの四象限
 
