@@ -160,5 +160,58 @@ the whole software lifecycle'
   volumn: 0021 号
   container-title: Rubyist Magazine
   URL: http://magazine.rubyist.net/?0021-Rspec
+- id: Crispin2009
+  title: 'Agile Testing(実践アジャイルテスト テスターとアジャイルチームのための実践ガイド)'
+  author:
+  - family: Lisa
+    given: Crispin
+  - family: Janet
+    given: Gregory
+  translator:
+  - family: 彰
+    given: 榊原
+  - family: 直樹
+    given: 山腰
+  - family: 聡
+    given: 増田
+  - family: 正章
+    given: 石橋
+  publisher: 翔泳社
+  language: ja
+  issued:
+    year: 2009
+- id: Huttermann2011
+  title: 'Agile ALM and Collaborative Development'
+  author:
+  - family: Michael
+    given: Hüttermann
+  issued:
+    year: 2011
+  URL: http://huettermann.net/perform/AgileALM-AgileRecord-Huettermann.pdf
+- id: Gregory2015   
+  title: 'More Agile Testting Learining Journeys For The Whole Team'
+  author:
+  - family: Janet
+    given: Gregory  
+  - family: Lisa
+    given: Crispin
+  issued:
+    year: 2015
+  publisher: Pearson
+- id: Rasmusson2010
+  title: 'The Agile Samurai: How Agile Masters Deliver Great Software(アジャイルサムライ−達人開発者への道− )'
+  author:
+  - family: Jonathan
+    given:  Rasmusson
+  - family: 直人
+    given:  西村 
+  - family: 信太郎
+    given: 角谷
+  - family: 修平
+    given: 近藤
+  - family: 拓未
+    given: 角掛 
+  issued:
+    year:2010  
 ---
 
