@@ -213,5 +213,13 @@ the whole software lifecycle'
     given: 角掛 
   issued:
     year: 2010  
+- id: Morohashi2010
+  title: 'はじめる！ Cucumber'
+  author:
+  - family: 諸橋
+    given: 恭介
+  issued:
+    year: 2010     
+  publisher: 達人出版会    
 ---
 
