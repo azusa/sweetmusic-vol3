@@ -9,6 +9,14 @@ fontsize: 16pt
 link-citations: true
 
 references:
+- id: North2006
+  tile: "Introducing BDD"
+  author:
+  - family: North
+    given: Dan
+  issued:
+    year: 2006
+  URL: https://dannorth.net/introducing-bdd/
 - id: Adzic2011
   title: "Specification by Example"
   author:
