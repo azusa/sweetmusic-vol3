@@ -188,7 +188,15 @@ the whole software lifecycle'
   language: ja
   issued:
     year: 2009
-- id: Huttermann2011
+- id: Huttermann2011a
+  title: 'Agile ALM: Lightweight Tools and Agile Strategies'
+  author:
+  - family: Hüttermann
+    given: Michael
+  issued:
+    year: 2011
+  publisher: Manning
+- id: Huttermann2011b
   title: 'Agile ALM and Collaborative Development'
   author:
   - family: Hüttermann
