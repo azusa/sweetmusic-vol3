@@ -144,8 +144,8 @@ references:
   title: 'BDD in Action Behavior-Driven Development for
 the whole software lifecycle'
   author:
-  - family: John Ferguson
-    given: Smart
+  - family: Smart
+    given: John Ferguson
   publisher: 'Manning'
   issued:
     year: 2015
@@ -171,10 +171,10 @@ the whole software lifecycle'
 - id: Crispin2009
   title: 'Agile Testing(実践アジャイルテスト テスターとアジャイルチームのための実践ガイド)'
   author:
-  - family: Lisa
-    given: Crispin
-  - family: Janet
-    given: Gregory
+  - family: Crispin
+    given: Lisa
+  - family: Gregory
+    given: Janet
   translator:
   - family: 彰
     given: 榊原
@@ -191,26 +191,26 @@ the whole software lifecycle'
 - id: Huttermann2011
   title: 'Agile ALM and Collaborative Development'
   author:
-  - family: Michael
-    given: Hüttermann
+  - family: Hüttermann
+    given: Michael
   issued:
     year: 2011
   URL: http://huettermann.net/perform/AgileALM-AgileRecord-Huettermann.pdf
 - id: Gregory2015   
   title: 'More Agile Testting Learining Journeys For The Whole Team'
   author:
-  - family: Janet
-    given: Gregory  
-  - family: Lisa
-    given: Crispin
+  - family: Gregory
+    given: Janet  
+  - family: Crispin
+    given: Lisa
   issued:
     year: 2015
   publisher: Pearson
 - id: Rasmusson2010
   title: 'The Agile Samurai: How Agile Masters Deliver Great Software(アジャイルサムライ−達人開発者への道− )'
   author:
-  - family: Jonathan
-    given:  Rasmusson
+  - family: Rasmusson
+    given:  Jonathan
   - family: 直人
     given:  西村 
   - family: 信太郎
