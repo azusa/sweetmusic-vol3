@@ -85,7 +85,7 @@ references:
     given: 雅章
   publisher: 'オーム社'
   issued:
-    year: 2016
+    year: 2000
 - id: Ishii2002
   title: 'JUnit 実践講座 -シナリオベースのテストケースの書き方'
   author:
@@ -176,14 +176,14 @@ the whole software lifecycle'
   - family: Gregory
     given: Janet
   translator:
-  - family: 彰
-    given: 榊原
-  - family: 直樹
-    given: 山腰
-  - family: 聡
-    given: 増田
-  - family: 正章
-    given: 石橋
+  - given: 彰
+    family: 榊原
+  - given: 直樹
+    family: 山腰
+  - given: 聡
+    family: 増田
+  - given: 正章
+    family: 石橋
   publisher: 翔泳社
   language: ja
   issued:
@@ -219,14 +219,14 @@ the whole software lifecycle'
   author:
   - family: Rasmusson
     given:  Jonathan
-  - family: 直人
-    given:  西村 
-  - family: 信太郎
-    given: 角谷
-  - family: 修平
-    given: 近藤
-  - family: 拓未
-    given: 角掛 
+  - given: 直人
+    family:  西村 
+  - given: 信太郎
+    family: 角谷
+  - given: 修平
+    family: 近藤
+  - given: 拓未
+    family: 角掛 
   issued:
     year: 2010  
 - id: Morohashi2010
@@ -236,6 +236,20 @@ the whole software lifecycle'
     given: 恭介
   issued:
     year: 2010     
-  publisher: 達人出版会    
+  publisher: 達人出版会
+- id: Appleton1998
+  title: 'Streamed Lines: Branching Patterns for Parallel Software Development'  
+  author:
+  - given: Brad
+    family: Appleton
+  - given: Stephen P. 
+    family: Berczuk
+  - given: Ralph
+    family: Cabrera
+  - given: Robert 
+    family: Orenstein
+  issued:
+    year: 1998    
+  URL: http://www.bradapp.com/acme/branching/pitfalls.html  
 ---
 
