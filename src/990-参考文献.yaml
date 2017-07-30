@@ -54,12 +54,12 @@ references:
   translator:
   - family: 長瀬
     given: 嘉秀
-  publisher: Pearson Education,
+  publisher: Addison-Wesley
   issued:
     year: 2002
   type: legal-case
 - id: Kniberg2011
-  title: 'リーン開発の現場　カンバンによる大規模プロジェクトの運営'
+  title: 'リーン開発の現場　カンバンによる大規模プロジェクトの運営 オーム社'
   author:
   - family: Kniberg
     given: Henrik
@@ -70,11 +70,11 @@ references:
     given: 聡啓
   - family: 藤原
     given: 大
-  publisher: 'オーム社'
+  publisher: 'The Pragmatic Programmers'
   issued:
     year: 2011
 - id: Thomas2000
-  title: '新装版 達人プログラマー 職人から名匠への道'
+  title: '新装版 達人プログラマー 職人から名匠への道 オーム社'
   author:
   - given: Andrew
     family: Hunt
@@ -83,7 +83,7 @@ references:
   translator:
   - family: 村上
     given: 雅章
-  publisher: 'オーム社'
+  publisher: 'Addison-Wesley'
   issued:
     year: 2000
 - id: Ishii2002
@@ -107,11 +107,11 @@ references:
   author:
   - given: Gerard
     family: Meszaros
-  publisher: Pearson Education
+  publisher: Addison-Wesley
   issued:
     year: 2007
 - id: Freeman2010
-  title: 'Growing Object-Oriented Software, Guided by Tests(実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる)'
+  title: 'Growing Object-Oriented Software, Guided by Tests(実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる 翔泳社)'
   author:
   - given: Steve
     family: Freeman
@@ -122,11 +122,11 @@ references:
     given: 右桂 
   - family: 髙木
     given: 正広
-  publisher: Pearson Education 
+  publisher: Addison-Wesley
   issued:
     year: 2010
 - id: Oram2011
-  title: 'Making Software エビデンスが変えるソフトウェア開発'
+  title: 'Making Software: What Really Works, and Why We Believe It(Making Software エビデンスが変えるソフトウェア開発 オライリー・ジャパン)'
   author:
   - family: Oram
     given: Andy
@@ -137,12 +137,11 @@ references:
     given: 禎子
   - family: 久野
     given: 靖
-  publisher: 'オライリー・ジャパン'
+  publisher: 'O''Reilly'
   issued:
     year: 2011
 - id: Smart2015
-  title: 'BDD in Action Behavior-Driven Development for
-the whole software lifecycle'
+  title: 'BDD in Action Behavior-Driven Development for the whole software lifecycle'
   author:
   - family: Smart
     given: John Ferguson
@@ -169,7 +168,7 @@ the whole software lifecycle'
   container-title: Rubyist Magazine
   URL: http://magazine.rubyist.net/?0021-Rspec
 - id: Crispin2009
-  title: 'Agile Testing(実践アジャイルテスト テスターとアジャイルチームのための実践ガイド)'
+  title: 'Agile Testing(実践アジャイルテスト テスターとアジャイルチームのための実践ガイド 翔泳社)'
   author:
   - family: Crispin
     given: Lisa
@@ -184,7 +183,7 @@ the whole software lifecycle'
     family: 増田
   - given: 正章
     family: 石橋
-  publisher: 翔泳社
+  publisher:  Addison-Wesley
   language: ja
   issued:
     year: 2009
@@ -213,7 +212,7 @@ the whole software lifecycle'
     given: Lisa
   issued:
     year: 2015
-  publisher: Pearson
+  publisher: Addison-Wesley
 - id: Rasmusson2010
   title: 'The Agile Samurai: How Agile Masters Deliver Great Software(アジャイルサムライ−達人開発者への道− )'
   author:
